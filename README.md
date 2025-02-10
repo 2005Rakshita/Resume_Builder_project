@@ -1,22 +1,22 @@
-# Resume_Builder_project
+# Resume Builder 
 
-Overview
+# Overview
 
 This is a simple and responsive resume website built using HTML, CSS, and JavaScript. It consists of five sections:
 
-Header
+1) Header
 
-Skills
+2) Skills
 
-Education
+3) Education
 
-Portfolio
+4) Portfolio
 
-Contact
+5) Contact
 
 The project provides a structured and visually appealing resume that highlights professional skills, education, work samples, and contact information.
 
-Features
+# Features
 
 Responsive Design: Ensures the resume looks good on all devices.
 
@@ -28,7 +28,7 @@ Portfolio Showcase: Displays work samples or projects in an organized manner.
 
 Contact Form: A functional contact form to collect visitor inquiries.
 
-Technologies Used
+# Technologies Used
 
 HTML: For structuring the webpage.
 
@@ -40,30 +40,25 @@ Setup Instructions
 
 Clone this repository:
 
-git clone <repository-url>
+    git clone <repository-url>
 
 Navigate to the project folder:
 
-cd resume-project
+    cd resume-project
 
-Open index.html in a browser to view the resume.
+Open Resum_project.html in a browser to view the resume.
 
-Project Structure
-
-resume-project/
-│-- Resume_project.html       # Main HTML file
-│-- Resume_project.css        # CSS file for styling
-│-- Resume_project.js        # JavaScript file for interactivity
-│-- pics/          # Folder containing images and icons
-
-Future Improvements
+# Future Improvements
 
 Adding more interactive animations.
 
 Enhancing form validation for better user input handling.
 
 Integrating a backend for contact form submissions.
+# Author 
+Rakshita Thakur
 
-License
+thakurrakshita@gmail.com
+# License
 
 This project is open-source and available for use under the MIT License.
